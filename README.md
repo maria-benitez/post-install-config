@@ -19,6 +19,7 @@ This exercise outlines the post-install configuration of the open-source help de
 
 <h2>Configuration Steps</h2>
 
+Please visit [Prerequisites and Installation](https://github.com/maria-benitez/osticket-prereqs) to view how I got here.
 <p>
 <img width="867" alt="image" src="https://github.com/maria-benitez/post-install-config/assets/147643771/c122ca23-7002-4655-b49e-eda744fcbfa9">
 <img width="867" alt="image" src="https://github.com/maria-benitez/post-install-config/assets/147643771/f36f9a3d-6327-4036-94bc-7bb325156c5a">
@@ -70,4 +71,4 @@ Configuring Help Topics. Business Critical Outage, Personal Computer Issues, Equ
 </p>
 <br />
 
-In Ticket Lifestyle Examples, I will practice creating, triggering, and solving tickets.
+In [Ticket Lifestyle Examples](https://github.com/maria-benitez/ticket-lifecycle), I will practice creating, triggering, and solving tickets.
